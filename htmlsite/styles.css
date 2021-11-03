@@ -6,24 +6,34 @@
   color: #fafafa;
   text-align: center;
   font-size: 78px;
-  font-style: oblique;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  text-decoration: overline;
 }
 
 .subtitle {
   color: #fafafa;
-  font-size: 40px;
+  font-size: 50px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  font-style: oblique;
 }
 
 .post_title {
   color: #fafafa;
   font-size: 40px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.img {
+  justify-content: center;
+  text-align: center;
 }
 
 .profile_image {
   border-radius: 90%;
-  width: 300px;
+  width: 200px;
   margin-bottom: 50px;
-  flex: 1;
   border: 4px solid #fafafa;
 }
 
@@ -35,5 +45,38 @@
 
 .frases {
   color: #fafafa;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   text-align: center;
+  margin-bottom: 300px;
+}
+
+.social {
+  border-radius: 98px;
+  text-align: center;
+  list-style-type: none;
+}
+
+.email {
+  color: #fafafa;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.insta {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #fafafa;
+}
+
+.rocket {
+  color: #fafafa;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.link {
+  color: #fafafa;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.git {
+  color: #fafafa;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
