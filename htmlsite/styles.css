@@ -1,0 +1,39 @@
+* {
+  background-color: #1a1a1a;
+}
+
+#title {
+  color: #fafafa;
+  text-align: center;
+  font-size: 78px;
+  font-style: oblique;
+}
+
+.subtitle {
+  color: #fafafa;
+  font-size: 40px;
+}
+
+.post_title {
+  color: #fafafa;
+  font-size: 40px;
+}
+
+.profile_image {
+  border-radius: 90%;
+  width: 300px;
+  margin-bottom: 50px;
+  flex: 1;
+  border: 4px solid #fafafa;
+}
+
+.code {
+  width: 100%;
+  height: 32rem;
+  border-radius: 8px;
+}
+
+.frases {
+  color: #fafafa;
+  text-align: center;
+}
